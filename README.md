@@ -1,3 +1,3 @@
-# Python-Socket
+# Python
 
-一个学习Python网络编程的仓库。
+一个学习Python的仓库。
