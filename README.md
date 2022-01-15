@@ -1,3 +1,3 @@
 # Python
 
-一个学习Python的仓库。
+一个学习Python的仓库
