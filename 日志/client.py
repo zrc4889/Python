@@ -5,7 +5,7 @@ s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 try:
     s.connect(address)  # 尝试连接服务端
 except Exception:
-    print('[!] Server not found ot not open')
+    print('[!] Server not found or not open')
     sys.exit()
 while True:
     trigger = input('Input: ')
