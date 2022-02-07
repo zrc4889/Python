@@ -3,7 +3,7 @@ from pyftpdlib.servers import FTPServer
 from pyftpdlib.authorizers import DummyAuthorizer
 
 authorizer = DummyAuthorizer()
-authorizer.add_user('python', '123456', 'E:\\', perm='elradfmwM')
+authorizer.add_user('python', '123456', 'E:\\', perm='elradfmwM') # 建立用户
 handler = FTPHandler
 handler.authorizer = authorizer
 
