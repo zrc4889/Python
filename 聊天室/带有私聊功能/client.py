@@ -2,6 +2,8 @@ import json
 import threading
 from socket import *
 
+# 指令式聊天
+
 is_login = False
 is_broadcast = True
 

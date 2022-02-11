@@ -2,6 +2,8 @@
 from tkinter import *
 import os
 
+# 此项目已改变内核并独立至 TimeClickGO
+
 root=Tk()
  
 def Show():

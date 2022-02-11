@@ -1,6 +1,8 @@
 import socket
 import win32com.client 
 
+# TODO 2022年2月8日 此项目已独立至新仓库 PythonChatServer
+
 # 预装了屏蔽词的朗读
 
 speak = win32com.client.Dispatch('SAPI.SPVOICE')

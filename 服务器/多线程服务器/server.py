@@ -1,6 +1,7 @@
 import socket
 import threading
 
+# TODO 2022年2月8日 此项目已独立至新仓库 PythonChatServer
 
 def handle_client(c, addr):
 
